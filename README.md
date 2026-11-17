@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm 0xTreasure 👋
 
-<!--
-**0xTreasureDev/0xTreasureDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 content writer & researcher · Solidity builder · Online seller based in Indonesia 🇮🇩**
 
-Here are some ideas to get you started:
+I write clear, well-researched X threads, explainers, and product content for Solana and EVM projects — and I build small, focused Solidity automation projects. My background as an online seller means I care about how products actually reach users, not just how they work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I do
+
+- **Content & research** — X threads, project explainers, market/opportunity research reports
+- **Solidity & automation** — smart contracts, reactive/autonomous on-chain workflows, testnet-first development
+- **Community & growth** — Discord community support, digital marketing for web3 products
+
+## 🚀 Featured projects
+
+- **GoalVault Autopay** — a savings-goal vault on Ethereum Sepolia that pays its beneficiary automatically when the target is reached, triggered by a reactive contract on Reactive Network (Lasna). No keeper, no bot, no manual payout. Built for the Reactive Omni Buildathon (DoraHacks).
+- **Dawnwell** — an original canvas arcade game (make.fun best-game-01 entry).
+- **Signal Sweep** — a pre-token opportunity radar with a transparent scoring model (make.fun token-radar-01 entry).
+
+## 🛠 Toolbox
+
+Solidity · JavaScript · TypeScript · React · Node.js · Python · Foundry · Reactive Network · Solana · BSC
+
+## 🤝 Open to
+
+Bounties and collaborations in content, research, and small Solidity builds — especially Solana and EVM ecosystems.
+
+## 📫 Reach me
+
+- X: [@0xTreasureDev](https://x.com/0xTreasureDev)
+- Superteam Earn: [Jackpot777](https://superteam.fun/earn/t/Jackpot777)
